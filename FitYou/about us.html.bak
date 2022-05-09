@@ -1,0 +1,240 @@
+<html>
+
+
+<head>
+	<title>About us</title>
+	<link rel="stylesheet" href="about us-cover-style.css">
+	<link rel ="stylesheet" type ="text/css" href ="navbar_stylesheet.css">
+	<link rel ="stylesheet" type ="text/css" href ="overlay-text-style.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	
+<style>
+body{
+background-color: #F7ECDE;
+overflow-x: hidden; /* Hide horizontal scrollbar */
+
+}
+
+
+
+div.a {
+  width: 200px;
+  height: 80px;
+  -ms-transform: rotate(270deg); 
+  transform: rotate(270deg);
+  font-size: 40px;
+  
+}
+
+h3{
+font:Arial;
+color:#c08879;	
+}
+div{
+font-family: "Times New Roman", Times, serif;
+color:#c08879;
+}
+
+.zoom {
+  padding: 50px;
+  transition: transform .2s;
+  margin: 0 auto;
+}
+
+.zoom:hover {
+  -ms-transform: scale(1.2); /* IE 9 */
+  -webkit-transform: scale(1.2); /* Safari 3-8 */
+  transform: scale(1.2); 
+}
+
+
+</style>
+
+</head>
+
+
+
+<body>
+
+<header style="background-color:E9DAC1;">
+    <div class="container">
+     <img src="logo-removebg-preview2.png" alt="logo" id="logo" style="position:relative;left:-75px;" >
+      <nav >
+        <ul>
+          <li><a href="#">Home</a></li>
+        
+		  <li class="dropdown">
+			<a class="dropbtn" href="#">Exercises <i class="fa fa-caret-down"></i></a>
+			<div class="dropdown-content">
+			
+			  <a href="#">Yoga</a>
+              <a href="#">Cross Fit</a>
+              <a href="#">Aerobics</a>
+			  <a href="#">Cardio</a>
+              <a href="#">Body Pump</a>
+              <a href="#">Strength Building</a>
+			</div>
+		  </li>
+		  
+          <li><a href="#">Contact us</a></li>
+		  <li><a href="#">About us</a></li>
+		  <li><a href="#">Login/Register</a></li>
+		  <li class="search">
+		  <input id="searchInput" type="search" placeholder="search">
+		  <button id="searchButton" type="submit"><i class="fa fa-search"></i></button>
+		  </li>
+		  
+        </ul>
+      </nav>
+    </div>
+	
+	
+  </header>
+
+
+<div>
+    <div class="parallax overlay-lighten" style="background-image: url('workingout.jpg'); height: 100%; width: 100%;">&nbsp;</div>
+    <div class="overlay-text" style="width: 75%; min-width: 350px;">
+        <h2 style="padding: 0 20px;">
+            <span style="font-size: 40pt; color:#faebd7;">Confidence comes from discipline and training</span>
+        </h2>
+    </div>
+</div>
+
+  <div class="content">
+  
+  <div style="position:relative; bottom:-70px; left:700;"> 
+   
+ <h3>Welcome to a workout community that you can curl up next to.</h3>
+ FitYou offers 6 expertly curated class types for busy, stressed out humans<br>
+ looking for variety, results, and a no - judgement approach to getting fit.<br> 
+ You'll see us groan during squats and breakdance during water breaks as we <br>
+ edutain (educate + entertain) you through each sweat session with us.No matter <br>
+ your fitness level, mood, or schedule, you'll look forward to your daily workouts with us.<br>
+ 
+  </div>
+  
+  
+    <div class="a" style="position:relative; left:250px; bottom:-10px; color:#c08879;"> About Us</div> 
+	
+	
+	<div style="position:relative; bottom:-150px; left:80;"> 
+		<h3>Created to help you live a better, happier and healthier life.</h3> 
+		We believe fitness should be accessible to everyone, everywhere<br>
+		regardless of income level or access to a gym.That's why we offer <br>
+		hundreds of free, full-length workout videos the most affordable <br>
+		and effective workout programs on the web meal plans, and helpful<br>
+		health, nutrition and fitness information.
+	</div>
+ 
+	<img class="zoom" src="7.jpg"  height="350" align="right" style="position:relative; top: -120px;  left:-5%;">
+  </div>
+  
+
+
+<div class="parallax1"></div>
+
+	<div class="content" >
+  
+  <div style="position:relative; bottom:-70px; left:700;"> 
+   <h3> How we started </h3> 
+ FitYou is the leading-edge coaching platform designed to help you to have incredible<br>
+ body, mind and lifestyle changes that last a lifetime.FitYou started in 2007 by team<br>
+ of four personal trainers who thought fitness should be accessible to everyone and every<br>
+ day since then FitYou is helping more people to start their journey towards healthier life.
+
+  </div>
+  
+  
+    <div class="a" style="position:relative; left:250px; bottom:-10px; color:#c08879;"> Our Story</div> 
+	
+	
+	<div style="position:relative; bottom:-150px; left:80;"> 
+		<h3>Our single-minded focus is helping you achieve your goals.</h3> 
+		If your motivation is flagging, we've got your back.<br>
+		We're obsessed with creating the best fitness site <br>
+		out there because we love hearing about your success<br>
+		once you’ve implemented our fitness solutions.
+	</div>
+ 
+	<img class="zoom"  src="work.png"  height="350" align="right" style="position:relative; top: -100px;  left:-5%;">
+	
+  </div>
+<br>
+
+
+<div class="parallax2"></div>
+
+	<div class="content" style= "height:1400;">
+	
+	<div style="position:relative; left:250px; bottom:-170px; font-size:40px; color:#c08879;"> Our Team</div> 
+
+	<div style="position:relative; bottom:-70px; left:700;">
+	<h3> Meet The FitYou Team </h3>
+	We are proud of the talented, cross-disciplinary team we’ve built to continue<br>
+	growing our library of fitness and wellness content, and the technology that<br>
+	drives it all. Even though we are a distributed team with diverse backgrounds<br>
+	we share a common goal making fitness and wellness content available to as <br>
+	many people as possible.
+	</div>
+	
+	
+<br><br><br>	
+
+    <img class="zoom" src="t1-modified.png"  height="300" width="300" style="position:relative; top: 100px; margin-left:200px; margin-right:300px">
+	<img class="zoom" src="t2-modified.png"  height="300" width="300" style="position:relative; top: 100px; margin-left:-140px; margin-right:10px ">
+	
+	<br><br><br>
+	<br><br><br>
+	
+	&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
+	&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
+	&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp Amr 
+	&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
+	&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
+	&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
+	&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp Marina 
+	
+	<br><br>
+	<p style="font-size:14px">
+	&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
+	&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
+	Certified Personal Trainer and Pre/Postnatal Fitness Speacialist.
+	&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
+	&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
+	&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
+	BS Dietetics and Certified Personal Trainer.
+	
+	
+	
+	<img class="zoom" src="t3-modified.png"  height="300" width="300" style="position:relative; top: 100px; margin-left:200px; margin-right:300px ">
+	<img class="zoom" src="t4-modified.png"  height="300" width="300" style="position:relative; top: 100px; margin-left:-140px; margin-right:10px">
+	
+	<br><br><br>
+	<br><br><br>
+	&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
+	&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp
+	&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp  Hagar
+	&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
+	&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
+	&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
+	&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp 
+	&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp  Aya
+	
+	<br><br>
+	<p style="font-size:14px">
+	&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
+	&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
+	BA in Theatre Performance and Registered Yoga Teacher.
+	&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
+	&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
+	&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
+	BA Exercise Science and Certified Personal Trainer.
+	
+																																									 
+</div>
+		
+
+		
+</body>
+<html>

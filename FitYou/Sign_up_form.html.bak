@@ -1,0 +1,59 @@
+<html>
+<head> 
+    <title> SignUP/IN page</title> 
+	<link rel ="stylesheet" type ="text/css" href ="Sign_up_form_stylesheet.css">
+
+</head>
+	<body>	
+		<div >   
+          <h1 id="Sign_Up">Sign Up for Free</h1>
+          
+          <form  method="post">
+		  <div id="items">
+              <div class="name">
+					<label>Name:</label>
+					<input type="name" required autocomplete="off"/>
+			  </div>
+			  
+			  <div class="email">
+					<label>Email:</label>
+					<input type="email" required  pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$"  autocomplete="off"/>
+			  </div>
+          
+			  <div class="password">
+					<label> Password:</label>
+					<input type="password" required pattern="(?=.\d)(?=.[a-z])(?=.*[A-Z]).{8,}"  autocomplete="off"/>
+			  </div>
+			  <div class="gender">
+					<label> Gender:</label>
+					<input type="radio"name="genderOption" value="male" required> Male
+					<input type="radio"name="genderOption" value="female"> Female
+			  </div>
+               <div class="DOB">
+					<label >Birthday:</label>
+                    <input type="date" id="birthday" name="birthday" required style="color:#3a4664;">
+			  </div>
+			  <div class="phone">
+					<label >Phone number:</label>
+                    <input type="tel" id="phone" name="phone"  pattern="[0][1][0125][0-9]{8}" required>
+			  </div>
+			  <div class="weight">
+					<label>Weight:</label>
+					<input type="weight" required autocomplete="off"/>
+			  </div>
+			  <div class="height">
+					<label>Height:</label>
+					<input type="height" required autocomplete="off"/>
+			  </div>
+          
+		  <div class="Sign_Up">
+          <button id="SignUp_button">Sign Up</button>
+          </div>
+		  
+		  </div>
+          </form>
+
+
+        </div>
+		</body>
+</html>

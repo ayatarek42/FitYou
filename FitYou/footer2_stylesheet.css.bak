@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css?family=Work+Sans:400,600');
+body{
+	background-color:#f1c7b2;
+}
+.footercontainer{
+	width:100%;
+	margin: 0 auto;
+	
+}
+
+footer {
+   background-color:#f1c7b2;
+   font-family: 'Work Sans', sans-serif;
+   font-weight: 600;
+   color:white;
+   
+}
+
+.lastfooter ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.lastfooter li {
+  display: inline-flex;
+  margin-left: 70px;
+  position: relative;
+}
+.lastfooter a {
+  color:#3a4664;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 14px;
+}
+
+p{color:#3a4664;}
+#social_img{
+	display:inline-block;
+	float:right;
+	margin-right:880px;
+	
+}
+
+h6{
+	display:inline-block;
+	 color:#3a4664;
+	 margin-left:600px;
+	 
+		 
+}
+

@@ -1,0 +1,57 @@
+ body,
+html {
+  height: 100%;
+  width: 100%
+}
+
+
+.parallax {
+  background-image: url('workingout.jpg');
+  height: 100%;
+  width: 100%;
+  /* Parallax scrolling effect */
+  background-attachment: fixed; 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallax1 {
+  background-image: url('cover.jpg');
+  height: 100%;
+  width: 100%;
+  /* Parallax scrolling effect */
+  background-attachment: fixed; 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallax2 {
+  background-image: url('6.jpg');
+  height: 100%;
+  width: 100%;
+  /* Parallax scrolling effect */
+  background-attachment: fixed; 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.content {
+  height: 100%;
+  line-height: 100%;
+  background: #F7ECDE;
+  position: relative;
+  z-index: 1;
+  border: 12px solid #F7ECDE;
+}
+
+
+.fixedElement {
+    position:fixed;
+    top:0;
+    width:100%;
+	margin-top:470px;
+   
+}

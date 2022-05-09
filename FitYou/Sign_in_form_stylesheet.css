@@ -1,0 +1,49 @@
+
+body{
+	background-image: url('[View 21+] Powerpoint Presentation Template Background Ppt Aesthetic Brown.jfif');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+    background-size: cover;
+	text-align:center;
+	color:#3a4664}
+
+#welcome{
+	
+	padding-top:100px;
+	text-align:center;
+	padding-bottom:40px;
+	
+	
+}
+.email{
+	text-align:center;	
+	padding-bottom:50px;
+}
+.email label{
+	
+ font-weight: bold;}
+
+.password{
+	text-align:center;	
+}
+.password label
+{
+font-weight: bold;
+}
+.forgot {
+ padding-left:250px;
+}
+.login{
+	padding-left:50px;
+}
+#login_button{
+	 background-color:E9DAC1;
+	 color:#3a4664 ; 
+	 border-color:E9DAC1; 
+	 padding:10 10;
+	 border-radius:5px;
+}
+input{
+	border-radius:5px;
+	border:none;
+}

@@ -1,0 +1,37 @@
+
+body{
+	background-image: url('Download free image of Abstract beige wallpaper background image  by Nunny about mobile wallpaper, wallpaper, watercolor backgrounds, aesthetic mobile wallpaper, and earth tones iphone wallpaper 2620433.jfif');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+    background-size: cover;
+	color:#3a4664;
+	text-align:center;
+	font-weight: bold;
+	
+	}
+	
+label{
+	width:100px;
+	display:inline-block;
+	text-align:right;
+	padding-bottom:25px;
+	
+}
+.phone label{
+	width:120px;
+}
+
+.Sign_Up{
+	padding-left:50px;
+}
+#SignUp_button{
+	 background-color:E9DAC1;
+	 color:#3a4664 ; 
+	 border-color:E9DAC1; 
+	 padding:10 10;
+	 border-radius:5px;
+}
+input{
+	border-radius:5px;
+	border:none;
+}

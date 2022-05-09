@@ -1,0 +1,274 @@
+<html>
+
+
+<head>
+	<title>About us</title>
+	<link rel="stylesheet" href="about us-cover-style.css">
+	<link rel ="stylesheet" type ="text/css" href ="footer_stylesheet.css">
+	<link rel ="stylesheet" type ="text/css" href ="navbar_stylesheet.css">
+	<link rel ="stylesheet" type ="text/css" href ="overlay-text-style.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	 <link rel="icon" type="image/x-icon" href="logo-removebg-preview2.png">
+
+	
+<style>
+body{
+background-color: #F7ECDE;
+overflow-x: hidden; /* Hide horizontal scrollbar */
+
+}
+
+
+
+div.a {
+  width: 200px;
+  height: 80px;
+  -ms-transform: rotate(270deg); 
+  transform: rotate(270deg);
+  font-size: 40px;
+  
+}
+
+h3{
+font:Arial;
+color:#ac7a6c;	
+}
+
+div{
+font:Arial;
+color:#c08879;
+}
+
+.zoom {
+  padding:50px;
+  transition: transform .2s;
+  margin: 0 auto;
+}
+
+.zoom:hover {
+  -ms-transform: scale(1.2); 
+  -webkit-transform: scale(1.2); 
+  transform: scale(1.2); 
+}
+
+
+</style>
+
+</head>
+
+
+
+<body>
+
+<header style="background-color:#926f65; padding-left:60px;">
+     <div class="container">
+     <img style="position:relative;left:-90px;" src="logo-removebg-preview2.png" alt="logo" id="logo"  >
+      <nav id="top">
+        <ul>
+          <li><a href="home_page.html">Home</a></li>
+        
+		  <li class="dropdown">
+			<a class="dropbtn" href="#">Exercises <i class="fa fa-caret-down"></i></a>
+			<div class="dropdown-content">
+			
+			  <a href="yoga.html">Yoga</a>
+              <a href="CrossFit.html">Cross Fit</a>
+              <a href="Aerobics.html">Aerobics</a>
+			  <a href="Cardio.html">Cardio</a>
+              <a href="BodyPump.html">Body Pump</a>
+              <a href="BodyStrength.html">Strength Building</a>
+			</div>
+		  </li>
+		  
+          <li><a href="ContactUs.html">Contact us</a></li>
+		  <li><a href="about_us.html">About us</a></li>
+		  <li><a href="Signup_page.html">Login/Register</a></li>
+		  <li class="search">
+		  <input id="searchInput" type="search" placeholder="search">
+		  <button id="searchButton" type="submit"><i class="fa fa-search"></i></button>
+		  </li>
+		  
+        </ul>
+      </nav>
+    </div>
+	
+  </header>
+
+
+<div>
+    <div class="parallax overlay-lighten"></div>
+    <div class="overlay-text" style="width: 90%; min-width: 350px; left:52%;">
+        <h2 style="padding: 0 20px;">
+            <span style="font-size: 34pt; color:#faebd7;">Confidence comes from discipline and training</span>
+        </h2>
+    </div>
+</div>
+
+
+  <div class="content" style="height:830px">
+  
+  <div style="position:relative; bottom:-70px; left:680;"> 
+   
+ <h3>Welcome to a workout community that you can curl up next to</h3><br>
+ FitYou offers 6 expertly curated class types for busy, stressed out humans<br><br>
+ looking for variety, results, and a no - judgement approach to getting fit.<br><br>
+ You'll see us groan during squats and breakdance during water breaks as we <br><br>
+ edutain (educate + entertain) you through each sweat session with us. No <br><br>
+ matter your fitness level, mood, or schedule, you'll look forward to your<br><br>
+ daily workouts with us.
+ 
+  </div>
+  
+  
+    <div class="a" style="position:relative; left:250px; top:-60px; color:#ac7a6c;"> About Us</div> 
+	
+	
+	<div style="position:relative; top:120px; left:80;"> 
+		<h3>Created to help you live a better, happier and healthier life</h3><br>
+		We believe fitness should be accessible to everyone, everywhere<br><br>
+		regardless of income level or access to a gym.That's why we offer <br><br>
+		hundreds of free, full-length workout videos the most affordable <br><br>
+		and effective workout programs on the web meal plans, and helpful<br><br>
+		health, nutrition and fitness information.
+	</div>
+ 
+	<img class="zoom" src="7.jpg" width="550" height="350"  align="right" style="position:relative; top:-200px; right:2%;">
+  </div>
+  
+  
+<div class="parallax1"></div> 
+
+	<div class="content" style="height:800px;">
+  
+  <div style="position:relative; bottom:-70px; left:680;"> 
+   <h3> How we started </h3> <br>
+ FitYou is the leading-edge coaching platform designed to help you to have<br><br> 
+ incredible body, mind and lifestyle changes that last a lifetime.FitYou<br><br> 
+ started in 2007 by team of four personal trainers who thought fitness<br><br>
+ should be accessible to everyone and since then FitYou is helping more<br><br>
+ people to start their journey towards healthier life.
+
+  </div>
+  
+  
+    <div class="a" style="position:relative; left:250px; top:-30px; color:#ac7a6c;"> Our Story</div> 
+	
+	
+	<div style="position:relative; top:130px; left:80;"> 
+		<h3>Our single-minded focus is helping you achieve your goals</h3> <br>
+		We believe in providing a high-quality fitness experience at <br><br>
+		an affordable cost.If your motivation is flagging, we've got<br><br>
+		your back.We're obsessed with creating the best fitness site<br><br>
+		out there because we love hearing about your success once <br><br>
+		you’ve implemented our fitness solutions.
+		
+	</div>
+ 
+	<img class="zoom"  src="work.png" width="550" height="350" align="right" style="position:relative; top:-200px; right:2%;">
+	
+  </div>
+
+
+
+ <div class="parallax2"></div>
+
+	<div class="content" style= "height:1600;">
+	
+	<div style="position:relative; left:250px; top:200px; font-size:40px; color:#ac7a6c;"> Our Team</div> 
+
+	<div style="position:relative; bottom:-70px; left:700;">
+	<h3> Meet The FitYou Team </h3><br>
+	We are proud of the talented, cross-disciplinary team we’ve built to <br><br>
+	continue growing our library of fitness and wellness content, and the<br><br>
+	technology that drives it all. Even though we are a distributed team <br><br>
+	with diverse backgrounds we share a common goal making fitness and <br><br>
+	wellness content available to as many people as possible.
+	</div>
+	
+	
+<br><br><br>	
+
+    <img class="zoom" src="t1-modified.png"  height="300" width="300" style="position:relative; top: 100px; margin-left:200px; margin-right:300px">
+	<img class="zoom" src="t2-modified.png"  height="300" width="300" style="position:relative; top: 100px; margin-left:-140px; margin-right:10px ">
+	
+	<br><br><br>
+	<br><br><br>
+	<br><br>
+	
+	&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
+	&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
+	&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp   Amr 
+	&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
+	&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
+	&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
+	&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  Marina 
+	
+	<br><br>
+	<p style="font-size:14px;color:#c08879">
+	&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  
+	&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
+	Certified Personal Trainer and Pre/Postnatal Fitness Speacialist.
+	&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
+	&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
+	&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
+	BS Dietetics and Certified Personal Trainer.
+	
+	
+	
+	<img class="zoom" src="t3-modified.png"  height="300" width="300" style="position:relative; top: 100px; margin-left:200px; margin-right:300px ">
+	<img class="zoom" src="t4-modified.png"  height="300" width="300" style="position:relative; top: 100px; margin-left:-140px; margin-right:10px">
+	
+	<br><br><br>
+	<br><br><br>
+	<br><br>
+	&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
+	&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
+	&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp&nbsp &nbsp &nbsp &nbsp   Hagar
+	&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
+	&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  
+	&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
+	&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp 
+	&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp  Aya
+	
+	<br><br>
+	<p style="font-size:14px;color:#c08879">
+	&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
+	&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
+	BA in Theatre Performance and Registered Yoga Teacher.
+	&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  
+	&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
+	&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
+	BA Exercise Science and Certified Personal Trainer.
+	
+																																									 
+</div>
+
+<div class="fixedElement">
+<a href="#top"> <img style="float:right;" src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/000000/external-up-arrow-arrows-flatart-icons-outline-flatarticons-3.png"/>
+</a>
+</div>	
+
+<div class="footercontainer">
+			<footer style="background-color:#926f65;">
+			
+					<div class="lastfooter">
+					<ul>
+					<li><a href="about_us.html"><p  >About Us</p></a></li>
+					<li><a href="contactUs.html"><p >Contact Us</p></a></li>
+			        <li><p>Follow Us</p></li>
+					 </ul> 
+					  <img id="social_img" src ="facebookandinstagram.png" usemap ="#example"  width="60" height="25">
+					 <map name ="#example">
+					 <area shape="rect" coords ="4,2,24,20" href ="https://www.facebook.com/"  target="_blank">
+					 <area shape="rect" coords ="33,2,56,19" href ="https://www.instagram.com/"  target="_blank" >  
+					 </map>		
+				     <h6 id="aya">Copyright &copy; 2022 All Rights Reserved.</h6>
+                     			
+					 </div>
+					 
+					 
+			</footer>	
+
+		
+</body>
+<html>

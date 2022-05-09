@@ -1,0 +1,30 @@
+body{
+	
+	
+	text-align:center;
+	padding-top:150px;
+	background-image: linear-gradient(to right , #fdf0e8 , #f8f3d8 );
+	
+}
+
+h1{	
+	color:#3a4664;
+	font-weight: bold;
+    
+}
+#signup_button{
+	
+	 background-color:E9DAC1;
+	 color:#3a4664 ; 
+	 border-color:E9DAC1; 
+	 padding:10 10;
+	 border-radius:5px;
+}
+#login_button{
+	
+	 background-color:E9DAC1;
+	 color:#3a4664 ; 
+	 border-color:E9DAC1; 
+	 padding:10 10;
+	 border-radius:5px;
+}

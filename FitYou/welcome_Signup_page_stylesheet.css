@@ -1,0 +1,13 @@
+body{
+	background-image: url('Sweating female athlete.jfif');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+    background-size: cover;
+	position: relative;
+
+}
+h2{
+	color:#3a4664;
+	font-weight: bold;
+	
+}
